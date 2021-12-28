@@ -1,10 +1,3 @@
-//----------------------------------------------------
-// Programmer: Tesfalem Tekie
-// Course: COSC 1437 Section 003
-// Semester: Summer 2020
-// Assignment #: 3
-// Due Date: June 24, 2020
-//----------------------------------------------------
 
 import java.util.Scanner;
 import java.io.*;
